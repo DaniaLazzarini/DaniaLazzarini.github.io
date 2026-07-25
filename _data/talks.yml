@@ -1,0 +1,12 @@
+- title: "Quantum Cryptanalysis of Class Group Actions"
+  venue: "QCPQA"
+  date: "2026-07-22"
+  event-link:  "https://sites.google.com/view/qcpqa26/home"
+  location: "Manchester, UK"
+  slides: "/slides/2607_qcpqa.pdf"
+
+- title: "Isogeny Computations in the Level-4 Mumford Model"
+  venue: "BRISONS"
+  location: "Manchester, UK"
+  date: "2026-06-22"
+  slides: "/slides/2606_brisons.pdf"
