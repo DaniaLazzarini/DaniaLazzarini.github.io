@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+<h2>Workshops ecolon; Conferences</h2>
+
+<ul>
+{% for workshop in site.data.workshops %}
+  <li>
+    <strong>{{ workshop.name }}</strong><br>
+    {{ workshop.date }}
+  </li>
+  <br>
+{% endfor %}
+</ul>

@@ -5,8 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<ul>
+{% for course in site.data.teaching %}
+  <li>
+    <strong>{% if course.link %}<a href="{{ course.link }}" target="_blank">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}</strong><br>
+    {{ course.location }} ({{ course.date }})
+  </li>
+  <br>
 {% endfor %}
+</ul>

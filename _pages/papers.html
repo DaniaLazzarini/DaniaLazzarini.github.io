@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Papers"
+permalink: /papers/
+author_profile: true
+---
+
+<h2>Preprints</h2>
+
+<ul>
+{% for preprint in site.data.preprints %}
+  <li>
+    <strong><a href="{{ preprint.eprint }}" target="_blank">{{ preprint.title }}</a></strong><br>
+    {{ preprint.authors }}
+  </li>
+  <br>
+{% endfor %}
+</ul>

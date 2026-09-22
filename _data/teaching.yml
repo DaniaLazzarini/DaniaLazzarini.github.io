@@ -1,0 +1,7 @@
+# Each entry needs: title, location, and date.
+# "link" is optional
+
+- title: "Introduction to cryptography (INFO-F405)"
+  location: "ULB, Belgium"
+  date: "A.Y. 2026-2027, 1st semester"
+  link: "https://www.ulb.be/en/programme/info-f405"
