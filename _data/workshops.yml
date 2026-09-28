@@ -1,2 +1,47 @@
-- name: "Example Workshop"
-  date: "2026-01-01"
+- name: "Leuven Isogeny Days 7, KU Leuven, COSIC"
+  date: "September 16-18, 2026"
+
+- name: "Workshop on the Mathematics of Post-Quantum Cryptography, TUM Science & Study Center Raitenhaslach, Germany"
+  date: "September 7-11, 2026"
+
+- name: "Quantum Cryptanalysis of Post-Quantum Algorithms (QCPQA) workshop, University of Manchester, United Kingdom"
+  date: "July 20-24, 2026"
+
+- name: "The BRISONS, University of Manchester, United Kingdom"
+  date: "June 22, 2026"
+
+- name: "UK Crypto Day, University of Bristol, United Kingdom"
+  date: "June 17, 2026"
+
+- name: "The Isogeny Club Brainstorm Days, Sapienza University of Rome, Italy"
+  date: "May 9-10, 2026"
+
+- name: "MaGIC Workshop on Group Actions in Cryptography, Borgo Lanciano, Castelraimondo, Italy"
+  date: "May 5-8, 2026"
+
+- name: "Isogeny-Based Cryptography (TP25IC) Workshop, Okinawa Institute of Science and Technology (OIST), Japan"
+  date: "January 19-30, 2026"
+
+- name: "Arithmétique en Plat Pays: Journée Estivale, KU Leuven, Department of Mathematics"
+  date: "September 22, 2025"
+
+- name: "Leuven Isogeny Days 6, KU Leuven, COSIC"
+  date: "September 10-12, 2025"
+
+- name: "Advances in Cryptography and Codes -- Part 1: SQIsign, University of Trento"
+  date: "May 19-23, 2025"
+
+- name: "Geometry, Algebra and Combinatorics of Moduli Spaces and Configurations VII, Winter School in Dobbiaco (Toblach), Italy"
+  date: "February 24-28, 2025"
+
+- name: "Young Cryptographers in Genova 2024, University of Genova, Department of Mathematics"
+  date: "November 28-29, 2024"
+
+- name: "Grasping Groups: Workshop in Pisa, University of Pisa, Department of Mathematics"
+  date: "November 23, 2024"
+
+- name: "Pisa Quantum Festival, University of Pisa, Department of Informatics"
+  date: "November 21, 2024"
+
+- name: "Introductory Summer School on Post-Quantum Algebraic Cryptography, Institut d'Études Scientifiques, Cargèse, Corsica"
+  date: "September 9-13, 2024"
