@@ -32,6 +32,6 @@ Outside of maths, here is a very random list of things that describe me:
   <li> Viareggio's Carnival is my annual obsession, together with</li>
   <li> Christmas in every shape: decorating the house way too early, Christmas markets all through November and December, and the most cliché Christmas movies</li>
   <li> there must always be a sudoku journal (rigorously in Italian) at my place</li>
-  <li> my guilty pleasure is rewatching <strong>Leonardo Pieraccioni's movies</strong></li>
-  <li> last but not least, <strong>purple</strong></li>
+  <li> my guilty pleasure is rewatching Leonardo Pieraccioni's movies</li>
+  <li> last but not least, purple</li>
 </ul>
